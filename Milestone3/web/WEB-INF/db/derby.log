@@ -1,0 +1,31 @@
+Fri Jun 17 10:09:54 CEST 2016 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Fri Jun 17 10:10:39 CEST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0155-5d68-c05d-0000283ab2c9 
+on database directory C:\Users\Ciro\amm\AMM_GRUPPO-A\Milestone3\web\WEB-INF\db\ammdb with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_91/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b14
+user.dir=C:\Program Files\Java\jdk1.8.0_91\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Ciro\amm\AMM_GRUPPO-A\Milestone3\web\WEB-INF\db
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 17 10:10:40 CEST 2016:
+Shutting down instance a816c00e-0155-5d68-c05d-0000283ab2c9 on database directory C:\Users\Ciro\amm\AMM_GRUPPO-A\Milestone3\web\WEB-INF\db\ammdb with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Fri Jun 17 10:10:41 CEST 2016 Thread[DRDAConnThread_3,5,main] (DATABASE = ammdb), (DRDAID = {2}), Database 'ammdb' shutdown.
+----------------------------------------------------------------
+Fri Jun 17 10:11:15 CEST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a65c80ac-0155-5d68-c05d-0000283ab2c9 
+on database directory C:\Users\Ciro\amm\AMM_GRUPPO-A\Milestone3\web\WEB-INF\db\ammdb with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_91/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b14
+user.dir=C:\Program Files\Java\jdk1.8.0_91\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Ciro\amm\AMM_GRUPPO-A\Milestone3\web\WEB-INF\db
+Database Class Loader started - derby.database.classpath=''
